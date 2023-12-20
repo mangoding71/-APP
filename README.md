@@ -8,6 +8,8 @@ windows装机软件
   
   *Dism是Windows系统优化工具
 
+  *IDM 激活工具(自解压程序).exe是下载器 idm 破解器
+
 
 待安装软件：
 
