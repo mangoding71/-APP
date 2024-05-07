@@ -10,7 +10,9 @@ windows装机软件
 
   *IDM 激活工具(自解压程序).exe是下载器 idm 破解器
   
-  *rainmeter 桌面美化工具
+  *rainmeter 桌面美化工具，时间及播放器
+
+  *NexusSetup 桌面docket
 
 待安装软件：
 
