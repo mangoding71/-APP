@@ -13,6 +13,8 @@ windows装机软件
   *rainmeter 桌面美化工具，时间及播放器
 
   *NexusSetup 桌面docket
+  
+  *Password Protect Folder and Lock File Pro 5.1.3.8.7文件夹加解密
 
 待安装软件：
 
